@@ -2,6 +2,7 @@
 
   # Dev-Roast or Dev-Compliment
 
+</div>
 
 Here is the complete, **highly detailed, step-by-step guide** in English to build, run locally, and upload your **"Dev-Roast or Dev-Compliment" AI** project to GitHub.
 
